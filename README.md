@@ -1,4 +1,4 @@
-### Opa, me chamano AntonioGB004 👋
+### Opa, me chamo AntonioGB004 👋
 
 - 🔭 Estou trabalhando atualmente com Back-end
 - 🌱 Atualmente estudo: MySQL,Django,HTML5 e CSS3
