@@ -6,7 +6,7 @@ BACK-END DEV
 
 I started studying python in 2019 just for fun but soon I realized that I had a relentless desire to learn, I took it more to the "professional" part in 2020 and then I started studying Back-End specifically Django,HTML5,Mysql,CSS3 and many others
 
-* 🌍  I'm based in Brazil, Paraiba
+* 🌍  I'm based in Brazil, Paraiba/PB
 * ✉️  You can contact me at [tomgabinio@gmail.com](mailto:tomgabinio@gmail.com)
 * 🧠  I'm learning Django,HTML5,Mysql,CSS3 and many others
 
