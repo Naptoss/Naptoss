@@ -8,7 +8,7 @@ I started studying python in 2019 just for fun but soon I realized that I had a 
 
 * 🌍  I'm based in Brazil, Paraiba/PB
 * ✉️  You can contact me at [tomgabinio@gmail.com](mailto:tomgabinio@gmail.com)
-* 🧠  I'm learning Django,HTML5,Mysql,CSS3 and many others
+* 🧠  I'm learning Python,Django,HTML5,Mysql,CSS3 and many others
 
 <a href="https://www.github.com/Naptoss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Naptoss?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
