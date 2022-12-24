@@ -39,6 +39,7 @@ src="https://img.shields.io/github/followers/Naptoss?logo=github&style=for-the-b
 <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
 <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
 </p>
 
 ### Badges
