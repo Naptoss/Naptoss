@@ -29,6 +29,7 @@ I'm a passionate **Cybersecurity Analyst** with a strong focus on **Threat Hunti
 🔹 **Malware Analysis Reports** – Reverse engineering malicious binaries & documenting findings.  
 🔹 **CTF Write-ups** – Breaking down solutions for cybersecurity challenges & CTFs.  
 🔹 **Threat Intelligence Dashboards** – Aggregating real-time cyber threat intelligence feeds.  
+🔹 **Are You There** – Development of a **real-time availability and security monitoring tool**, designed to detect service disruptions and potential security incidents.  
 
 📂 Check my repositories for more: **[🔗 GitHub Projects](https://github.com/AntonioG004)**  
 
@@ -44,4 +45,5 @@ I'm a passionate **Cybersecurity Analyst** with a strong focus on **Threat Hunti
 ### 🚀 Cybersecurity Motto:
 > "The best way to predict the future is to secure it."
 
+---
 ---
