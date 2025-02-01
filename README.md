@@ -45,5 +45,3 @@ I'm a passionate **Cybersecurity Analyst** with a strong focus on **Threat Hunti
 > "The best way to predict the future is to secure it."
 
 ---
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=AntonioG004&show_icons=true&theme=radical)
