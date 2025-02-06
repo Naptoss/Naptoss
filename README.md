@@ -31,13 +31,12 @@ I'm a passionate **Cybersecurity Analyst** with a strong focus on **Threat Hunti
 🔹 **Threat Intelligence Dashboards** – Aggregating real-time cyber threat intelligence feeds.  
 🔹 **Are You There** – Development of a **real-time availability and security monitoring tool**, designed to detect service disruptions and potential security incidents.  
 
-📂 Check my repositories for more: **[🔗 GitHub Projects](https://github.com/AntonioG004)**  
+📂 Check my repositories for more: **[🔗 GitHub Projects](https://github.com/Naptoss)**  
 
 ---
 
 ### 📡 Connect with Me
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](#)  
-🔗 **Twitter:** [twitter.com/yourhandle](#)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/antonio-gabinio-b47469240/](#)   
 📧 **Email:** tomgabinio@gmail.com  
 
 ---
@@ -45,5 +44,4 @@ I'm a passionate **Cybersecurity Analyst** with a strong focus on **Threat Hunti
 ### 🚀 Cybersecurity Motto:
 > "The best way to predict the future is to secure it."
 
----
 ---
