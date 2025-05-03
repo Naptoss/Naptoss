@@ -1,4 +1,4 @@
-## ![👾](https://img.icons8.com/emoji/48/hacker-cat.png) Hey, I'm Antonio Gabinio Filho
+## ![👾] Hey, I'm Antonio Gabinio Filho
 
 ### 🛡️ Cybersecurity Specialist | SOC Analyst | Threat Hunter
 
@@ -30,8 +30,6 @@ I'm a passionate **Cybersecurity Analyst** with a strong focus on **Threat Hunti
 🔹 **CTF Write-ups** – Breaking down solutions for cybersecurity challenges & CTFs.  
 🔹 **Threat Intelligence Dashboards** – Aggregating real-time cyber threat intelligence feeds.  
 🔹 **Are You There** – Development of a **real-time availability and security monitoring tool**, designed to detect service disruptions and potential security incidents.  
-
-📂 Check my repositories for more: **[🔗 GitHub Projects](https://github.com/Naptoss)**  
 
 ---
 
